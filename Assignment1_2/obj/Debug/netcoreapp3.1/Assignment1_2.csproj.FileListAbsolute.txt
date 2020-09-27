@@ -1,0 +1,12 @@
+D:\Documents\c#_Projects\Assignment1_2\Assignment1_2\bin\Debug\netcoreapp3.1\Assignment1_2.exe
+D:\Documents\c#_Projects\Assignment1_2\Assignment1_2\bin\Debug\netcoreapp3.1\Assignment1_2.deps.json
+D:\Documents\c#_Projects\Assignment1_2\Assignment1_2\bin\Debug\netcoreapp3.1\Assignment1_2.runtimeconfig.json
+D:\Documents\c#_Projects\Assignment1_2\Assignment1_2\bin\Debug\netcoreapp3.1\Assignment1_2.runtimeconfig.dev.json
+D:\Documents\c#_Projects\Assignment1_2\Assignment1_2\bin\Debug\netcoreapp3.1\Assignment1_2.dll
+D:\Documents\c#_Projects\Assignment1_2\Assignment1_2\bin\Debug\netcoreapp3.1\Assignment1_2.pdb
+D:\Documents\c#_Projects\Assignment1_2\Assignment1_2\obj\Debug\netcoreapp3.1\Assignment1_2.AssemblyInfoInputs.cache
+D:\Documents\c#_Projects\Assignment1_2\Assignment1_2\obj\Debug\netcoreapp3.1\Assignment1_2.AssemblyInfo.cs
+D:\Documents\c#_Projects\Assignment1_2\Assignment1_2\obj\Debug\netcoreapp3.1\Assignment1_2.csproj.CoreCompileInputs.cache
+D:\Documents\c#_Projects\Assignment1_2\Assignment1_2\obj\Debug\netcoreapp3.1\Assignment1_2.dll
+D:\Documents\c#_Projects\Assignment1_2\Assignment1_2\obj\Debug\netcoreapp3.1\Assignment1_2.pdb
+D:\Documents\c#_Projects\Assignment1_2\Assignment1_2\obj\Debug\netcoreapp3.1\Assignment1_2.genruntimeconfig.cache
